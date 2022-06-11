@@ -2,4 +2,4 @@
 - Iniciando/Criando um repositório e utilizando os primeiros comandos básicos no Git/Github
 
 ## Links Utéis
-[Síntaxe Básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Síntaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
